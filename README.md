@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Why use Custom hooks....
+ it cleans the code.
+ write once and use it again and again
+ shorter code.
+ looks smart way.
+
 ## Available Scripts
 
 In the project directory, you can run:
